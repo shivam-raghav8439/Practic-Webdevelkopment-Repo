@@ -1,0 +1,29 @@
+body {
+    background-color: pink;
+    color: black;
+}
+ td{
+ border: 2px solid black;
+}
+p{
+    background-color: rgb(136, 78, 6);
+}
+a{
+    background-color: rgb(123, 6, 6);
+}
+div{
+    background-color: darkcyan;
+}
+span{
+    background-color: darkorange;
+}
+.red{
+    background-color: green;
+    color: red;
+}
+.bg-yellow{
+    background-color: lemonchiffon;
+}
+ #firstdiv{
+    background-color: yellow;
+ }
